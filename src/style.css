@@ -1,0 +1,41 @@
+body {
+  font-family:sans-serif;
+  margin: 20px;
+
+}
+
+h1{
+  color:#1F8CDF;
+}
+
+.main-container {
+
+  padding: 8px;
+  padding-right: 10px;
+
+}
+
+.tags-container {
+  display: flex;
+  padding-right: 10px;
+
+}
+
+.tag-container {
+  margin-right: 4px;
+
+}
+
+
+
+.heavy {
+  font: bold 20px sans-serif;
+  text-align: justify;
+  overflow: hidden;
+ }
+
+ .node {
+   font: bold 18px sans-serif;
+   text-align: justify;
+   overflow: hidden;
+  }
